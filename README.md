@@ -21,7 +21,7 @@ It displays a clean, centered card on the homepage containing a QR code image, a
 
 The goal of this project is to practice layout design, component styling, and centering elements using Tailwind’s utility classes. It demonstrates how to build a responsive and visually appealing card layout, similar to the Frontend Mentor QR Code Component challenge.
 
-# Github Repo- []
+# Github Repo- [https://github.com/kolamak/kolamak-frontend-mentor-challenge-Qr-code.git]
 
 # Features -
 
@@ -62,7 +62,7 @@ Moving forward, I plan to:
 
 - Frontend Mentor - [@kolamak](https://www.frontendmentor.io/profile/kolamak)
 - Twitter - [@\_kolamak](https://www.twitter.com/kolamak)
-- Linkedin - [@kolamakanjuola] (www.linkedin.com/in/kolamakanjuola)
+- Linkedin - (www.linkedin.com/in/kolamakanjuola)
 
 # Acknowledgments-
 
